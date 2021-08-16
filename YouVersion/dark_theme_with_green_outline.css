@@ -1,0 +1,84 @@
+.reader .wordsofchrist, .reader .wj .content {
+    color: #c00
+  }
+  .row {
+    color: #FFFFFF;
+    background-color: #2F3136;
+    /* border-radius: 8px; */
+  }
+  span, p, li {
+    color: #FFFFFF;
+  }
+  
+  * {
+      color: #2ecc71;
+      border-color: #2ecc71;
+  
+  }
+  .yv-sticky-header-content, .yv-sticky-header-fixed, .yv-sticky-header-hidden, .yv-sticky-header, input, textarea {
+      background-color: #23272A;
+  }
+  
+  
+  .yv-sticky-header, .yv-sticky-header-pin-to-top {
+    background-color: #2C2F33;
+    /* color: #2C2F33;
+    fill: #2C2F33; */
+  }
+  svg > path {
+    fill: #2ecc71;
+  }
+  g > g {
+    fill: #2ecc71;
+  }
+  #react-app-Header > div > div > div > div.css-tgnxtv > div.css-156agrs > div > div > div:nth-child(2) > a > div > div > svg > g > path:nth-child(2) {
+    fill: #2ecc71;
+  }
+  
+  .open, .dropdown-arrow-container, .dropdown-arrow{
+    background-color: #2C2F33;
+    fill: #2ecc71;
+  }
+  polygon{
+      fill: #2ecc71;
+  }
+  .circle-buttons {
+    background-color: #23272A;
+  }
+  .chapter-picker-modal, .hide-chaps {
+    background-color: #23272A;
+    /* fill: #23272A; */
+    border-radius: 16px;
+  }
+  li {
+    border-radius: 4px;
+  }
+  
+  li:hover {
+    background-color:#2ecc71;
+    color:#2ecc71;
+  }
+  
+  
+  body {
+    height: auto;
+    background-color: #2C2F33;
+  }
+  .reader-header, .horizontal-center,
+  .version-picker-modal, .hide-langs, .version-header, ul,
+  .search,
+  .day,
+  .plan-nav-header,
+  .searchicon-container, .yv-inbox-wrapper, .yv-notifications-inbox, .yv-notification, li {
+    background-color: #2C2F33;
+    /* border-radius: 6px; */
+  
+  }
+  #react-app-PlanDiscovery > div > div > div:nth-child(4) > div.row.days-container.collapse > div > div > div > div > div > a > div > div.day-bottom > h4 > div {
+    background-color: #23272A;
+  }
+  .no-bullets, .plan-pieces {
+    color: #FFFFFF;
+  }
+  
+  

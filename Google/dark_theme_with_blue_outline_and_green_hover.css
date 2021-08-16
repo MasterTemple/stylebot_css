@@ -1,0 +1,32 @@
+* {
+    background-color: #23272A;
+    color: #FFFFFF;
+    border-color: #7289DA;
+  }
+  a, h3 {
+    color: #7289DA !important;
+  }
+  cite {
+    color: #9b84ee;
+  }
+  em {
+    /* color: #a6b0ff; */
+    color: #94ffb9;
+  }
+  /* h3 {
+    outline: #7289DA;
+    outline-color: #7289DA;
+    outline-width: 1;
+  } */
+  *:hover {
+    color: #43b581;
+    /* fill: #7289DA; */
+  }
+  #kp-wp-tab-overview > div.TzHB6b.cLjAic.LMRCfc > div > div > div > div > div > div > div > div > span.GRkHZd.w8qArf > a {
+    color: #FFFFFF;
+  }
+  #media_result_group > div > div > div.pvresd.LFls2 > div > div > div > a > g-img > div, #_wcYaYY-UEdnJ0PEP6aKKmAo64 > div > div.related-question-pair.wQiwMc.ygGdYd > div > div.wWOJcd > div.r21Kzd, #kp-wp-tab-overview > div > div > div > div > div > div > div.e4xoPb > div.rKnmn, #kp-wp-tab-overview > div:nth-child(27) > div > div > div > div > div > div.e4xoPb > div.o0igqc > div > div > div > div > div > a > div > div.WM9LLd > div.z9RGvc,
+  #kp-wp-tab-overview > div > div > div > div > div > div > div > div > div.IsZvec > div:nth-child(1) > div > a > g-img > div, div {
+    background: none !important;
+  }
+  

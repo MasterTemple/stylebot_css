@@ -1,0 +1,30 @@
+* {
+    border-radius: 8px;
+    border-color: #7289DA;
+    background-color: #23272A;
+    color: #FFFFFF;
+}
+a:hover {
+  background-color: #7289DA;
+  color: #FFFFFF;
+  fill: #FFFFFF;
+
+}
+.passage-tools .copy svg, .passage-tools .parallel svg {
+    fill: #7289DA;
+}
+.content hr.content-divider {
+    border: 0;
+    border-top: 2px solid #7289DA;
+    margin: 0;
+}
+.svg, xmlns {
+    fill: #7289DA;
+}
+a {
+    color: #7289DA;
+    fill: #7289DA;
+}
+.sys-announce .login .user-icon svg {
+    fill: #7289DA;
+}
