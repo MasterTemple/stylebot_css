@@ -1,13 +1,31 @@
 * {
-    background-color: #23272A;
-    color: #FFFFFF;
-    text-shadow: none;
-    border-color: #cc1122;
-  }
-  a > span:hover, strong:hover {
-    color: #cc1122;
-  }
-  div > svg:hover, div > span > svg:hover {
-    fill: #cc1122;
-  }
-  
+  background-color: #23272A;
+  color: #FFFFFF;
+  text-shadow: none;
+  border-color: #cc1122;
+}
+a > span:hover, strong:hover {
+  color: #cc1122;
+}
+div > svg:hover, div > span > svg:hover  {
+  fill: #cc1122;
+}
+#section-tabs > li > a:hover,
+#breadcrumbs > ul > li > a:hover   {
+  color: #cc1122;
+}
+div.quiz_comment {
+background: #23272A;
+}
+div.quiz_comment::before {
+border: #23272A;
+}
+#header > div.ic-app-header__main-navigation > div > a {
+background-color: #cc1122;
+}
+.btn:hover, .Button:hover {
+  background-color: #cc1122;
+}
+.icon-mini-arrow-right, .icon-mini-arrow-left {
+background: none;
+}
