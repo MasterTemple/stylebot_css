@@ -1,0 +1,13 @@
+* {
+    background-color: #23272A;
+    color: #FFFFFF;
+    text-shadow: none;
+    border-color: #cc1122;
+  }
+  a > span:hover, strong:hover {
+    color: #cc1122;
+  }
+  div > svg:hover, div > span > svg:hover {
+    fill: #cc1122;
+  }
+  
